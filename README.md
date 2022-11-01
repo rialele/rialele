@@ -4,7 +4,7 @@
 - 😄 Pronouns: She/Her
 
 - 🔭 I’m currently working on my final year project which involves the marriage of NLP with Computer Vision in E-commerce
-- 🌱 Currently learning Quantum Computing
+- 🌱 Currently learning about Quantum Computing in AI
 
 <!--
 **rialele/rialele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
