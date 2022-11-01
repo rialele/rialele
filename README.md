@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- How to reach me: ria.lele23@gmail.com
-- Pronouns: She/Her
+- 📫 How to reach me: ria.lele23@gmail.com
+- 😄 Pronouns: She/Her
 
-- I’m currently working on my final year project which involves the cognisis of NLP and Computer Vision in E-commerce
-- I'm currently researching on Quantum Computing in AI
+- 🔭 I’m currently working on my final year project which involves the cognisis of NLP and Computer Vision in E-commerce
+- 🌱 I’m currently learning Quantum Computing
 
 <!--
 **rialele/rialele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
