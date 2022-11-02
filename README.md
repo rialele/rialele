@@ -1,5 +1,5 @@
 ### Hi there 👋
-Feel free to connect with me on LinkedIn!
+Reach out to me on LinkedIn to connect!
 
 
 
