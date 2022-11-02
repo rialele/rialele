@@ -1,6 +1,6 @@
 ### Hi there 👋
 Feel free to connect with me on LinkedIn!
-- Pronouns: She/Her
+
 
 
 <!--
